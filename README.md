@@ -67,7 +67,9 @@ We also used:
 ## Results ##
 
 ### Decision Tree ###
-- Accuracy: ~81%
+The decision tree shows that commercial and industrial electricity rates, along with service type, are strong predictors of utility ownership. 
+Most investor-owned utilities have lower rates and bundled services, while non-investor utilities tend to have higher rates and more delivery-only service types.
+- Accuracy: ~84%
 - Strong on majority class (Investor Owned), weak on minority classes
 
 ### Linear Regression ###
